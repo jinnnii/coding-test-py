@@ -36,9 +36,9 @@
 | 진척도 | 주차  | 주제        |
 | :----: | :---: | :---------- |
 |   ✔    | 1주차 | `프로그래머스 입문`      |
-|  ⬜️   | 2주차 | `미정`       |
-|  ⬜️   | 3주차 | `미정`       |
-|  ⬜️   | 4주차 | `미정`       |
+|   ✔   | 2주차 | `프로그래머스 입문`       |
+|   ✔   | 3주차 | `프로그래머스 입문`       |
+|   ✔   | 4주차 | `코딩테스트 고득점 Kit`       |
 
 <br />
 <br />
@@ -63,11 +63,11 @@
 <br />
 
 ## ✅ 커밋 규칙
-- Summary :  [문제 출처(플랫폼)] 문제이름 / 난이도 
-- Description: 문제 주소 (option)
+- Summary :  [문제 출처(플랫폼)] 몇주차
+- Description(선택): 문제 주소 (option)
 - 터미널에서 작성법: 
 ```
-git commit -m "[BOJ] Hello World / 브론즈5 " -m "https://www.acmicpc.net/problem/2557"
+git commit -m "[BOJ] week1 " -m "https://www.acmicpc.net/problem/2557"
 ```
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
